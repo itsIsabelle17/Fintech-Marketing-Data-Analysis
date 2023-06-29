@@ -35,15 +35,15 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 #### Preferred Data or Analytics Methodology: CRISP-DM Methodology
 
-<b>1. Business Understanding</b>
+<b>1. Business Understanding</b>  
       1) Unshield the complexity of LinkedIn API data 
          * Fragmented data points by LinkedIn policy and overlapping issues between creatives belonging to the same campaign   
 
-      2) Find out important metrics for LinkedIn data 
+      2) Find out important metrics for LinkedIn data  
          * Metrics that measure the performance (user reach, impression, clicks) 
          * Metrics that may appear as redundancy
 
-      3) Pieces of a recipe for the paid media engine 
+      3) Pieces of a recipe for the paid media engine  
          - XYZ action boost x % in performance metric 
          - Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience 
 
