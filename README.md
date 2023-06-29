@@ -5,23 +5,23 @@
 
 ## Background and Objective of the Project
 
-<b>* Company Goal</b>
+<b>* Company Goal</b>  
 To optimize advertising expenditure more effectively, you need to track the effectiveness of advertising campaigns and ad materials and evaluate the impact of providing air cover support for sales. 
 
-<b>* Customer’s Request</b>
+<b>* Customer’s Request</b>  
 We would love to see a tool to help construct optimal campaign settings on LinkedIn Campaign Manager that maximize effectiveness. The ad fatigue trend and the quantified indicators play a big role.
 
-<b>* Project Goals</b>
+<b>* Project Goals</b>  
 The goal is to enhance advertising effectiveness by examining the currently available data. LinkedIn ad effectiveness analysis helps determine the best way to target customers and control the timing accurately. The following are important considerations:
 * Making the right target decisions within the company at specific points in the sales cycle.
 * Evaluating the performance of ad creatives over time
 
-<b>* Details about the Project Goal</b>
+<b>* Details about the Project Goal</b>  
 * Develop ETL and visualization solutions using Python or other open-source alternatives to provide insights as described above. 
 * Create dashboards using Tableau or other visualization tools to allow non-technical users to gain insights from the data. 
 * Analyze the results to propose marketing strategies and develop a Data Center for future use. 
 
-<b>* Key Questions</b>
+<b>* Key Questions</b>  
 * How does the target audience (TA) interact with the ad in each sales cycle 
 * How well does the ad distribution perform over time 
 * What are the signs showing advertisements reach ad fatigue 
