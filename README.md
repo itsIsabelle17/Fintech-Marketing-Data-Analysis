@@ -35,7 +35,7 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 #### Preferred Data or Analytics Methodology: CRISP-DM Methodology
 
-** 1. Business Understanding **
+<b>1. Business Understanding</b>
       1) Unshield the complexity of LinkedIn API data 
          * Fragmented data points by LinkedIn policy and overlapping issues between creatives belonging to the same campaign   
 
