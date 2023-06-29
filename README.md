@@ -1,4 +1,5 @@
 # Marketing Data Analysis for a Fintech Company
+
 <b>About the Project:</b> As part of a graduation project, this project is about becoming a student consultant and solving a problem for a company. As a Marketing Data Analyst, I tracked the effectiveness of advertising campaigns and advertising creatives, evaluated their effectiveness, and provided strategies to provide air cover support for sales in order to better optimize advertising spending for a real-world fintech startup. I planned and carried out the project by holding weekly client meetings and internal meetings.
 
 
@@ -16,14 +17,14 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 * Evaluating the performance of ad creatives over time
 
 <b>* Details about the Project Goal</b>
-      * Develop ETL and visualization solutions using Python or other open-source alternatives to provide insights as described above. 
-      * Create dashboards using Tableau or other visualization tools to allow non-technical users to gain insights from the data. 
-      * Analyze the results to propose marketing strategies and develop a Data Center for future use. 
+* Develop ETL and visualization solutions using Python or other open-source alternatives to provide insights as described above. 
+* Create dashboards using Tableau or other visualization tools to allow non-technical users to gain insights from the data. 
+* Analyze the results to propose marketing strategies and develop a Data Center for future use. 
 
 <b>* Key Questions</b>
-      * How does the target audience (TA) interact with the ad in each sales cycle 
-      * How well does the ad distribution perform over time 
-      * What are the signs showing advertisements reach ad fatigue 
+* How does the target audience (TA) interact with the ad in each sales cycle 
+* How well does the ad distribution perform over time 
+* What are the signs showing advertisements reach ad fatigue 
 
 
 
