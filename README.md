@@ -3,11 +3,14 @@ About the Project: As part of a graduation project, this project is about becomi
 
 ## Background and Objective of the Project
 
-### Company Goal: To optimize advertising expenditure more effectively, you need to track the effectiveness of advertising campaigns and ad materials and evaluate the impact of providing air cover support for sales. 
+### Company Goal 
+To optimize advertising expenditure more effectively, you need to track the effectiveness of advertising campaigns and ad materials and evaluate the impact of providing air cover support for sales. 
 
-### Customer’s Request: We would love to see a tool to help construct optimal campaign settings on LinkedIn Campaign Manager that maximize effectiveness. The ad fatigue trend and the quantified indicators play a big role.
+### Customer’s Request 
+We would love to see a tool to help construct optimal campaign settings on LinkedIn Campaign Manager that maximize effectiveness. The ad fatigue trend and the quantified indicators play a big role.
 
-### Project Goals: The goal is to enhance advertising effectiveness by examining the currently available data. LinkedIn ad effectiveness analysis helps determine the best way to target customers and control the timing accurately. The following are important considerations:
+### Project Goals 
+The goal is to enhance advertising effectiveness by examining the currently available data. LinkedIn ad effectiveness analysis helps determine the best way to target customers and control the timing accurately. The following are important considerations:
 * Making the right target decisions within the company at specific points in the sales cycle.
 * Evaluating the performance of ad creatives over time
 
@@ -29,11 +32,14 @@ What are the signs showing advertisements reach ad fatigue
 ### Preferred Data or Analytics Methodology: CRISP-DM Methodology
 
 1. Business Understanding
+
 1) Unshield the complexity of LinkedIn API data 
-* Fragmented data points by LinkedIn policy and overlapping issues between creatives belonging to the same campaign 
+* Fragmented data points by LinkedIn policy and overlapping issues between creatives belonging to the same campaign   
+
 2) Find out important metrics for LinkedIn data 
 * Metrics that measure the performance (user reach, impression, clicks) 
 * Metrics that may appear as redundancy
+
 3) Pieces of a recipe for the paid media engine 
 * XYZ action boost x % in performance metric 
 - Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience 
