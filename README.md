@@ -29,9 +29,9 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 ## Project Approach
 
-### Approach method: Pyramid Hypothesis-based Analysis
+#### Approach method: Pyramid Hypothesis-based Analysis
 
-### Preferred Data or Analytics Methodology: CRISP-DM Methodology
+#### Preferred Data or Analytics Methodology: CRISP-DM Methodology
 <b>1. Business Understanding</b>  
 * Unshield the complexity of LinkedIn API data  
   * Fragmented data points by LinkedIn policy and overlapping issues between creatives belonging to the same campaign  
@@ -77,6 +77,7 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   - Tableau visualization dashboards  
   - Written reports on future LinkedIn Ad strategy  
 * Keep records of unsolved problems and insights as guidance for the future analytics team   
+</br>
 </br>
 
 ## Products and Solutions
