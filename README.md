@@ -25,7 +25,8 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 * How does the target audience (TA) interact with the ad in each sales cycle 
 * How well does the ad distribution perform over time 
 * What are the signs showing advertisements reach ad fatigue 
-</br>
+
+
 ## Project Approach
 
 #### Approach method: Pyramid Hypothesis-based Analysis
