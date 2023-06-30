@@ -53,7 +53,6 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 
 <b>3. Data Preparation</b>  
-
       1) Create a GitHub repository for version control  
       2) Extract LinkedIn Ads data in Python  
           - Explore data, and combine marketing goals to identify key features  
@@ -62,12 +61,16 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 
 <b>4. Modeling</b>  
-
       1) Select algorithms and generate a design  
           - Model parameters selection based on metrics from LinkedIn API data  
       2) Visualize descriptive analysis with Tableau dashboards  
       3) Perform A/B testing to determine creative deployment strategy  
 
+<b>4. Modeling</b>  
+   1) Select algorithms and generate a design  
+      - Model parameters selection based on metrics from LinkedIn API data  
+   2) Visualize descriptive analysis with Tableau dashboards
+   3) Perform A/B testing to determine creative deployment strategy  
 
 <b>5. Evaluation</b>  
 - Evaluate the model’s prediction performance with test data  
@@ -75,7 +78,6 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 
 <b>6. Deployment</b>  
-
       1) Deployment for technical groups (e.g. technical team)  
           * Upload ETL pipeline for data automation to GitHub repository  
           * Upload predictive machine learning model final codes to GitHub repository  
