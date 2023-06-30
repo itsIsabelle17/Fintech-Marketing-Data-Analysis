@@ -26,7 +26,6 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 * How well does the ad distribution perform over time 
 * What are the signs showing advertisements reach ad fatigue 
 </br>
-
 ## Project Approach
 
 #### Approach method: Pyramid Hypothesis-based Analysis
@@ -77,7 +76,6 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   - Tableau visualization dashboards  
   - Written reports on future LinkedIn Ad strategy  
 * Keep records of unsolved problems and insights as guidance for the future analytics team   
-</br>
 </br>
 
 ## Products and Solutions
