@@ -40,17 +40,16 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   * Fragmented data points by LinkedIn policy and overlapping issues between creatives belonging to the same campaign  
 * Find out important metrics for LinkedIn data  
   * Metrics that measure the performance (user reach, impression, clicks) 
-     * Metrics that may appear as redundancy  
+  * Metrics that may appear as redundancy  
 * Pieces of a recipe for the paid media engine  
   * XYZ action boost x % in performance metric
-  * Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience 
+  * Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience  
 
 
-
-2. Data Understanding & Data Preparation
-1) LinkedIn API data and LinkedIn Campaign Manager (Primary) 
-2) Google Analytics
-3) Hubspot
+<b>2. Data Understanding & Data Preparation</b>  
+1) LinkedIn API data and LinkedIn Campaign Manager (Primary)  
+2) Google Analytics  
+3) Hubspot  
 
 
 3. Data Preparation
