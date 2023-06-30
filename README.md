@@ -42,11 +42,13 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   * XYZ action boost x % in performance metric
   * Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience  
 </br>
+
 <b>2. Data Understanding & Data Preparation</b>  
 - LinkedIn API data and LinkedIn Campaign Manager (Primary)
 - Google Analytics
 - Hubspot  
 </br>
+
 <b>3. Data Preparation</b>  
 * Create a GitHub repository for version control  
 * Extract LinkedIn Ads data in Python  
@@ -54,16 +56,19 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   + Extract data using LinkedIn API to organize data source  
 * Assist in building PostgreSQL database for analytics in Azure  
 </br>
+
 <b>4. Modeling</b>  
 * Select algorithms and generate a design  
   + Model parameters selection based on metrics from LinkedIn API data  
 * Visualize descriptive analysis with Tableau dashboards  
 * Perform A/B testing to determine creative deployment strategy  
 </br>
+
 <b>5. Evaluation</b>  
 - Evaluate the model’s prediction performance with test data  
 - Evaluate the performance of Tableau dashboards  
 </br>
+
 <b>6. Deployment</b>  
 * Deployment for technical groups (e.g. technical team)  
   - Upload ETL pipeline for data automation to GitHub repository  
@@ -72,7 +77,7 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   - Tableau visualization dashboards  
   - Written reports on future LinkedIn Ad strategy  
 * Keep records of unsolved problems and insights as guidance for the future analytics team   
-</br></br>
+</br>
 
 ## Products and Solutions
 
