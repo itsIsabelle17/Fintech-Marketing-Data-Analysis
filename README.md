@@ -60,10 +60,10 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 + Assist in building PostgreSQL database for analytics in Azure  
 
 
-<b>4. Modeling</b>
-      1) Select algorithms and generate a design 
+<b>4. Modeling</b>  
+      1) Select algorithms and generate a design  
          * Model parameters selection based on metrics from LinkedIn API data 
-      2) Visualize descriptive analysis with Tableau dashboards 
+      2) Visualize descriptive analysis with Tableau dashboards  
       3) Perform A/B testing to determine creative deployment strategy 
 
 
