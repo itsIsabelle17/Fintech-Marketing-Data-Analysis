@@ -53,33 +53,33 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 
 <b>3. Data Preparation</b>  
- 1) Create a GitHub repository for version control  
- 2) Extract LinkedIn Ads data in Python  
-   * Explore data, and combine marketing goals to identify key features
-   * Extract data using LinkedIn API to organize data source  
- 3) Assist in building PostgreSQL database for analytics in Azure  
++ Create a GitHub repository for version control  
++ Extract LinkedIn Ads data in Python
+ + Explore data, and combine marketing goals to identify key features
+ + Extract data using LinkedIn API to organize data source
++ Assist in building PostgreSQL database for analytics in Azure  
 
 
-4. Modeling
-1) Select algorithms and generate a design 
-* Model parameters selection based on metrics from LinkedIn API data 
-2) Visualize descriptive analysis with Tableau dashboards 
-3) Perform A/B testing to determine creative deployment strategy 
+<b>4. Modeling</b>
+      1) Select algorithms and generate a design 
+         * Model parameters selection based on metrics from LinkedIn API data 
+      2) Visualize descriptive analysis with Tableau dashboards 
+      3) Perform A/B testing to determine creative deployment strategy 
 
 
-5. Evaluation
-1) Evaluate the model’s prediction performance with test data 
-2) Evaluate the performance of Tableau dashboards 
+<b>5. Evaluation</b>
+- Evaluate the model’s prediction performance with test data 
+- Evaluate the performance of Tableau dashboards 
 
 
-6. Deployment
+<b>6. Deployment</b>
 1) Deployment for technical groups (e.g. technical team) 
-* Upload ETL pipeline for data automation to GitHub repository 
-* Upload predictive machine learning model final codes to GitHub repository
+ * Upload ETL pipeline for data automation to GitHub repository 
+ * Upload predictive machine learning model final codes to GitHub repository
 
 2) Deployment for non-technical stakeholders (e.g Marketing team) 
-* Tableau visualization dashboards 
-* Written reports on future LinkedIn Ad strategy 
+ * Tableau visualization dashboards 
+ * Written reports on future LinkedIn Ad strategy 
 
 3) Keep records of unsolved problems and insights as guidance for the future analytics team 
 
