@@ -45,19 +45,17 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   * XYZ action boost x % in performance metric
   * Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience  
 
-
 <b>2. Data Understanding & Data Preparation</b>  
-1) LinkedIn API data and LinkedIn Campaign Manager (Primary)  
-2) Google Analytics  
-3) Hubspot  
+- LinkedIn API data and LinkedIn Campaign Manager (Primary)
+- Google Analytics
+- Hubspot  
 
-
-3. Data Preparation
-1) Create a GitHub repository for version control 
-2) Extract LinkedIn Ads data in Python 
-* Explore data, and combine marketing goals to identify key features 
-* Extract data using LinkedIn API to organize data source 
-3) Assist in building PostgreSQL database for analytics in Azure 
+<b>3. Data Preparation</b>  
+1) Create a GitHub repository for version control  
+2) Extract LinkedIn Ads data in Python  
+   * Explore data, and combine marketing goals to identify key features  
+   * Extract data using LinkedIn API to organize data source  
+3) Assist in building PostgreSQL database for analytics in Azure  
 
 
 4. Modeling
