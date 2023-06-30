@@ -53,11 +53,11 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 
 <b>3. Data Preparation</b>  
-1) Create a GitHub repository for version control  
-2) Extract LinkedIn Ads data in Python  
- * Explore data, and combine marketing goals to identify key features
- * Extract data using LinkedIn API to organize data source  
-3) Assist in building PostgreSQL database for analytics in Azure  
+ 1) Create a GitHub repository for version control  
+ 2) Extract LinkedIn Ads data in Python  
+   * Explore data, and combine marketing goals to identify key features
+   * Extract data using LinkedIn API to organize data source  
+ 3) Assist in building PostgreSQL database for analytics in Azure  
 
 
 4. Modeling
