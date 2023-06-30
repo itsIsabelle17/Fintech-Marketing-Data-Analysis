@@ -41,13 +41,11 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 * Pieces of a recipe for the paid media engine  
   * XYZ action boost x % in performance metric
   * Quantify the ad performance/effectiveness of brand awareness/lead gen to a list of clear targeted audience  
-</br>
 
 <b>2. Data Understanding & Data Preparation</b>  
 - LinkedIn API data and LinkedIn Campaign Manager (Primary)
 - Google Analytics
 - Hubspot  
-</br>
 
 <b>3. Data Preparation</b>  
 * Create a GitHub repository for version control  
@@ -55,19 +53,16 @@ The goal is to enhance advertising effectiveness by examining the currently avai
   + Explore data, and combine marketing goals to identify key features  
   + Extract data using LinkedIn API to organize data source  
 * Assist in building PostgreSQL database for analytics in Azure  
-</br>
 
 <b>4. Modeling</b>  
 * Select algorithms and generate a design  
   + Model parameters selection based on metrics from LinkedIn API data  
 * Visualize descriptive analysis with Tableau dashboards  
 * Perform A/B testing to determine creative deployment strategy  
-</br>
 
 <b>5. Evaluation</b>  
 - Evaluate the model’s prediction performance with test data  
 - Evaluate the performance of Tableau dashboards  
-</br>
 
 <b>6. Deployment</b>  
 * Deployment for technical groups (e.g. technical team)  
@@ -90,7 +85,7 @@ The data are generated from the LinkedIn Ads service, utilizing Python with Link
 * Ad Creative Performance Analytics
 * Target Audience Setting Extraction
 
-<img width="519" alt="image" src="https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/6f2b836b-b284-47ed-87f9-1c6b28bdc7bc">
+![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/8233db18-3e64-4383-b146-7167377d6ea2)
 </br>
 
 ### Ad Performance Tracking Center  
@@ -98,18 +93,21 @@ The data are generated from the LinkedIn Ads service, utilizing Python with Link
 #### 1. Metrics for Evaluating Ad Performances  
 * Ad Quality: Cost per Click (CPC), Click Through Rate (CTR)
 * Ad Fatigue: 7-Day Reach, 30-Day Reach
-* Usually, a good ad quality has low CPC and high CTR. Marketers may compare the metrics with the past ad campaign analytics as well as the LinkedIn official stats benchmarks. According to LinkedIn, the average CTR is around 0.44% to 0.65%, and the average CPC is around $5.58. Based on the criteria representing CTR and CPC in the official LinkedIn statistical benchmarks, an overall analysis of the advertising campaign was conducted, dividing it into three tiers: 1) High CTR and low CPC, 2) High CTR and high CPC, low CTR and low CPC, 3) Low CTR and high CPC.
+* Usually, a good ad quality has low CPC and high CTR. Marketers may compare the metrics with the past ad campaign analytics as well as the LinkedIn official stats benchmarks. According to LinkedIn, the average CTR is around 0.44% to 0.65%, and the average CPC is around $5.58. Based on the criteria representing CTR and CPC in the official LinkedIn statistical benchmarks, an overall analysis of the advertising campaign was conducted, dividing it into three tiers: 1) High CTR and low CPC, 2) High CTR and high CPC or low CTR and low CPC, 3) Low CTR and high CPC.
 
 #### 2. Detecting the Ad Fatigue  
 For detecting whether an ad campaign reaches its ad fatigue, marketers should look to 7- Day Reach and 30-Day Reach metrics. When a trend shows an inversion point and the trend becomes relatively flat, markets should consider either (1) adjusting the targeting criteria if the ad campaign runs at the early stage or (2) stopping the ad campaign if the ad campaign has run for a while. 
+
 ![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/e89b1b1a-9166-4bb0-b4b3-e4f86a74f1b9) ![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/5561b726-2d65-4e39-afaf-84fc1f8b4054)
 
 #### 3. Ad Campaign Performance  
 A Tableau dashboard was created to present an overview of the advertising campaign and compare it to the LinkedIn Advertising Benchmark. When evaluating the effectiveness of an advertising campaign, both ad quality and ad fatigue should be considered. This dashboard provides the number of Ad Campaigns used and Ad Cost, highlighted CPC (cost per click) and CTR (click-through rate), as well as Reach Metrics based on daily, 7-day, and 30-day data for each client. 
+
 ![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/8f8e56d8-30d8-40c3-b227-e37d48a2c4b8)
 
 #### 4. Job Title Performance  
 Once we identify the ad campaign performance, marketers still need to look into who was actually interacting with the ads and might need optimizations. The dashboard analyzes performance metrics (landing page clicks, CPC, CTR) for each position by extracting demographic data. It helps marketers know which Job Titles to target for each ad campaign. For example, by clicking on the job title recorded in the Job Title Performances dashboard, marketers may consider adding Senior Risk Manager, Vice President of Services, Risk Management Officer, Treasury Management Specialist, Risk Management Specialist...etc into the targeting criteria. Similar optimization analysis may also be done by the Job Title Performances and Company Performances dashboard.
+
 ![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/06f99e22-24b8-481a-b548-b87384d3e2e6)
 
 #### 5. Roles in Sales Process & Ad Performance  
