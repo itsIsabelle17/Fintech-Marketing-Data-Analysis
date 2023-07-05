@@ -78,7 +78,7 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 ## Products and Solutions  
 
- ![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/f833e74a-44c1-4d3f-8df7-457f6d3c8065)
+<img src=“./Image/Company Performance and Ad Creative Performance.png“ width=600 height=300>  
 
 </br>
 
