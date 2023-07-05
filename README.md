@@ -103,7 +103,8 @@ The data are generated from the LinkedIn Ads service, utilizing Python with Link
 ### 2. Detecting the Ad Fatigue  
 For detecting whether an ad campaign reaches its ad fatigue, marketers should look to 7- Day Reach and 30-Day Reach metrics. When a trend shows an inversion point and the trend becomes relatively flat, markets should consider either (1) adjusting the targeting criteria if the ad campaign runs at the early stage or (2) stopping the ad campaign if the ad campaign has run for a while. 
 
-![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/e89b1b1a-9166-4bb0-b4b3-e4f86a74f1b9) ![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/5561b726-2d65-4e39-afaf-84fc1f8b4054)
+![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/e89b1b1a-9166-4bb0-b4b3-e4f86a74f1b9)  
+![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/5561b726-2d65-4e39-afaf-84fc1f8b4054)  
 
 ### 3. Ad Campaign Performance  
 A Tableau dashboard was created to present an overview of the advertising campaign and compare it to the LinkedIn Advertising Benchmark. When evaluating the effectiveness of an advertising campaign, both ad quality and ad fatigue should be considered. This dashboard provides the number of Ad Campaigns used and Ad Cost, highlighted CPC (cost per click) and CTR (click-through rate), as well as Reach Metrics based on daily, 7-day, and 30-day data for each client. 
