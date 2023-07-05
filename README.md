@@ -89,7 +89,7 @@ The data are generated from the LinkedIn Ads service, utilizing Python with Link
 * Ad Creative Performance Analytics
 * Target Audience Setting Extraction
 
-<img src="./Image/DB schema.png" width=800 height=400>  
+<img src="./Image/DB schema.png" width=800 height=350>  
 </br>
 </br>
 
@@ -122,10 +122,10 @@ After filtering out the top 200 benchmark ad creatives audiences, we tagged thes
  * Influencer: Mid-level managers (head of department) 
  * Do-er:Junior-level employees responsible for execution (Associate, Specialist)
 
-<img src="./Image/Roles in Sales Cycle and Ad Performance.png" width=800 height=400>  
+<img src="./Image/Roles in Sales Cycle and Ad Performance.png" width=800 height=500>  
 
 ### 6. Company Performance and Ad Creative Performance
 The dashboard on adCreative shows a grand view of the financial industry-level performance metrics (impressions, CTR) filtered from the Top 200 audiences and its comparison on a single company level or the all industry level, with data mainly focusing on adCreative. The overall performance can be accessed on the bottom chart when selecting “All”. To standardize the data and avoid bias based on the number of employees of each company, we recommend reading the impression data first to have a sense of how a specific adCreative leaves impressions on the landing page by the target settings. The CTR for each company under specific adCreative would provide more accurate data than clicks with all target audiences to let you know the Ad quality. The industry-level analysis also helps you reduce the noise of other target industries' responses.
 
-<img src="./Image/Company Performance and Ad Creative Performance.png" width=800 height=400>  
+<img src="./Image/Company Performance and Ad Creative Performance.png" width=800 height=500>  
 
