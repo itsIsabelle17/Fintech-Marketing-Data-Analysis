@@ -78,7 +78,7 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 ## Products and Solutions  
 
-<img src="./Image/Company Performance and Ad Creative Performance.png" width=600 height=300>  
+<img src="./Image/product overall.png" width=800 height=500>  
 
 </br>
 
