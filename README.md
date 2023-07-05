@@ -108,13 +108,12 @@ For detecting whether an ad campaign reaches its ad fatigue, marketers should lo
 ### 3. Ad Campaign Performance  
 A Tableau dashboard was created to present an overview of the advertising campaign and compare it to the LinkedIn Advertising Benchmark. When evaluating the effectiveness of an advertising campaign, both ad quality and ad fatigue should be considered. This dashboard provides the number of Ad Campaigns used and Ad Cost, highlighted CPC (cost per click) and CTR (click-through rate), as well as Reach Metrics based on daily, 7-day, and 30-day data for each client. 
 
-<img src="./Image/DB schema.png" width=800 height=400>  
-![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/8f8e56d8-30d8-40c3-b227-e37d48a2c4b8)
+<img src="./Image/adCampaign Performance.png" width=800 height=400>  
 
 ### 4. Job Title Performance  
 Once we identify the ad campaign performance, marketers still need to look into who was actually interacting with the ads and might need optimizations. The dashboard analyzes performance metrics (landing page clicks, CPC, CTR) for each position by extracting demographic data. It helps marketers know which Job Titles to target for each ad campaign. For example, by clicking on the job title recorded in the Job Title Performances dashboard, marketers may consider adding Senior Risk Manager, Vice President of Services, Risk Management Officer, Treasury Management Specialist, Risk Management Specialist...etc into the targeting criteria. Similar optimization analysis may also be done by the Job Title Performances and Company Performances dashboard.
 
-![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/06f99e22-24b8-481a-b548-b87384d3e2e6)
+<img src="./Image/Job Title Performance.png" width=800 height=400>  
 
 ### 5. Roles in Sales Process & Ad Performance  
 After filtering out the top 200 benchmark ad creatives audiences, we tagged these audiences based on their titles and categorized* them as Decision-Maker, Do-er, Influencer, and Unidentified. The graphs show how different roles in the sales process respond to our ads in general.
@@ -123,10 +122,10 @@ After filtering out the top 200 benchmark ad creatives audiences, we tagged thes
  * Influencer: Mid-level managers (head of department) 
  * Do-er:Junior-level employees responsible for execution (Associate, Specialist)
 
-![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/355f1f83-c27e-4f4e-854c-867e9a376e37)
+<img src="./Image/Roles in Sales Cycle and Ad Performance.png" width=800 height=400>  
 
 ### 6. Company Performance and Ad Creative Performance
 The dashboard on adCreative shows a grand view of the financial industry-level performance metrics (impressions, CTR) filtered from the Top 200 audiences and its comparison on a single company level or the all industry level, with data mainly focusing on adCreative. The overall performance can be accessed on the bottom chart when selecting “All”. To standardize the data and avoid bias based on the number of employees of each company, we recommend reading the impression data first to have a sense of how a specific adCreative leaves impressions on the landing page by the target settings. The CTR for each company under specific adCreative would provide more accurate data than clicks with all target audiences to let you know the Ad quality. The industry-level analysis also helps you reduce the noise of other target industries' responses.
 
-![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/6ccdaff4-f523-4a7d-b817-db89e1d69a0d)
+<img src="./Image/Company Performance and Ad Creative Performance.png" width=800 height=400>  
 
