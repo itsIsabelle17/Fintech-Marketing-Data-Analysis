@@ -78,7 +78,7 @@ The goal is to enhance advertising effectiveness by examining the currently avai
 
 ## Products and Solutions  
 
-<img src="./Image/product overall.png" width=800 height=500>  
+<img src="./Image/product overall.png" width=800 height=600>  
 
 </br>
 
@@ -89,7 +89,7 @@ The data are generated from the LinkedIn Ads service, utilizing Python with Link
 * Ad Creative Performance Analytics
 * Target Audience Setting Extraction
 
-![image](https://github.com/itsIsabelle17/Business-Analytics-Practicum/assets/114459340/8233db18-3e64-4383-b146-7167377d6ea2)
+<img src="./Image/DB schema.png" width=800 height=600>  
 </br>
 </br>
 
